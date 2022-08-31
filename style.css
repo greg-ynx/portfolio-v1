@@ -30,3 +30,17 @@ hr.transition  {
     height: 64px;
     margin: 1%;
 }
+
+.xpDiv {
+    border: 4px solid #E1E1E1;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    height: 400px;
+}
+
+.xpPin {
+    width: 175px;
+    height: 175px;
+    margin:auto;
+    display:block;
+}
