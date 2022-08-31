@@ -24,3 +24,9 @@ p {
 hr.transition  {
     border: none;
 }
+
+.skillsIcon {
+    width: 64px;
+    height: 64px;
+    margin: 1%;
+}
