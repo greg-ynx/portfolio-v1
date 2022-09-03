@@ -32,10 +32,11 @@ hr.transition  {
 }
 
 .xpDiv {
-    border: 4px solid #E1E1E1;
-    border-radius: 10px;
-    margin-bottom: 50px;
-    height: 400px;
+    margin-bottom: 150px;
+}
+
+.xpDiv p, h3, h4, img {
+    text-align: center;
 }
 
 .xpPin {
