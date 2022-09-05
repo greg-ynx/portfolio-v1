@@ -12,6 +12,17 @@ p {
     font-family: Poppins, sans-serif;
 }
 
+.my-title {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 0;
+}
+
+hr.my-title {
+    width: 300px;
+    margin: auto auto 2%;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto;
