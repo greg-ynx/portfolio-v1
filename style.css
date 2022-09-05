@@ -12,6 +12,24 @@ p {
     font-family: Poppins, sans-serif;
 }
 
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin: 3%;
+}
+
+.work-preview {
+    border: 2px solid #E1E1E1;
+    border-radius: 10px;
+    margin: 10px 10px;
+    padding: 20px;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .barItem {
     margin-left: 5px;
     margin-right: 5px;
