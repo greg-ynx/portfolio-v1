@@ -76,4 +76,4 @@ fabric.properties
 # All assets
 img/
 preview/
-
+*.png
